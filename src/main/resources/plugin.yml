@@ -2,4 +2,5 @@ name: AdminTools
 version: '${version}'
 main: tk.skyhill2003.admintools.AdminTools
 api-version: 1.18
-authors: [skyhill2003]
+commands:
+   admintools:

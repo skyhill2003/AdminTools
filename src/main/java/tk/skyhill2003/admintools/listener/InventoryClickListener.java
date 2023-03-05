@@ -11,3 +11,4 @@ public class InventoryClickListener implements Listener {
         event.setCancelled(true);
     }
 }
+

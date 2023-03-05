@@ -1,5 +1,5 @@
 name: AdminTools
-version: '${version}'
+version: '1.0-SNAPSHOT'
 main: tk.skyhill2003.admintools.AdminTools
 api-version: 1.19
 commands:

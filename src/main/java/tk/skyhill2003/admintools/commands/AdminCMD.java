@@ -13,9 +13,12 @@ public class AdminCMD implements CommandExecutor {
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
         Player player = (Player) sender;
-        if(sender instanceof Player) {
+        if(sender instanceof Player)  {
             if(player.hasPermission("admintools.ussage")) {
                 Inventory inventory = (Inventory) Bukkit.createInventory(null, 54, "AdminTools");
+
+                inventory.setItem(1, new ItemBuilder(Material.DIAMOND_PICKAXE).setName("&aMain Control").build());
+                
 
                 for (int i= 0; i <54 ;i++) {
                     inventory.setItem(i, new ItemBuilder(Material.BLACK_STAINED_GLASS_PANE).setName(" ").build());

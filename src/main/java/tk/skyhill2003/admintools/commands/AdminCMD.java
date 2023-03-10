@@ -17,12 +17,12 @@ public class AdminCMD implements CommandExecutor {
             if(player.hasPermission("admintools.ussage")) {
                 Inventory inventory = (Inventory) Bukkit.createInventory(null, 54, "AdminTools");
 
-                inventory.setItem(1, new ItemBuilder(Material.DIAMOND_PICKAXE).setName("&aMain Control").build());
-                
-
                 for (int i= 0; i <54 ;i++) {
                     inventory.setItem(i, new ItemBuilder(Material.BLACK_STAINED_GLASS_PANE).setName(" ").build());
                 }
+
+                inventory.setItem(1, new ItemBuilder(Material.DIAMOND_PICKAXE).setName("&aMain Control").build());
+                inventory.setItem(2, new ItemBuilder(Material.IRON_SWORD).setName("ChatClear").build());
 
                 player.openInventory(inventory);
             } else {

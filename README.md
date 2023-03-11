@@ -7,13 +7,9 @@
 
 Commands:<br>
 ``Open the GUI /adminpanel``
+``List Help /adminpanel help``
 
 Permissions:
 - adminpanel.use
-
-Tested Minecraft Versions:
-1.8, 1.9, 1.10, 1.11, 1.12, 1.13
-<br>Languages Supported:
-German and English
 
 [LICENSE](https://github.com/skyhill2003/AdminTools/blob/master/LICENSE)

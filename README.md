@@ -6,8 +6,8 @@
 
 
 Commands:<br>
-``Open the GUI /adminpanel``
-``List Help /adminpanel help``
+``/adminpanel      # Open the GUI``<br>
+``/adminpanel help # See Help List``
 
 Permissions:
 - adminpanel.use

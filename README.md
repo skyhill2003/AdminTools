@@ -1,7 +1,8 @@
 # AdminTools
 
-![GitHub repo size](https://img.shields.io/github/repo-size/skyhill2003/AdminTools)
+![GitHub repo size](https://img.shields.io/github/repo-size/skyhill2003/AdminTools) ![Spiget Downloads](https://img.shields.io/spiget/downloads/63453)
 <br>[Download on SpigotMC](https://www.spigotmc.org/resources/admincontrolpanel-merry-christmas-free-coming-soon-confing.63453)
+
 
 Commands:<br>
 ``Open the GUI /adminpanel``

@@ -16,6 +16,4 @@ Tested Minecraft Versions:
 <br>Languages Supported:
 German and English
 
-Regulate:<br>
-Do not identify the plugin as your own<br>
-Do not sell this plugin for download anywhere else
+[LICENSE](https://github.com/skyhill2003/AdminTools/blob/master/LICENSE)

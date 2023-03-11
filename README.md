@@ -1,6 +1,7 @@
 # AdminTools
 
-![GitHub repo size](https://img.shields.io/github/repo-size/skyhill2003/AdminTools) ![Spiget Downloads](https://img.shields.io/spiget/downloads/63453)
+![Spiget Donwload Size](https://img.shields.io/spiget/download-size/63453) ![GitHub repo size](https://img.shields.io/github/repo-size/skyhill2003/AdminTools) ![Spiget Downloads](https://img.shields.io/spiget/downloads/63453) ![Spiget Rating](https://img.shields.io/spiget/rating/63453) 
+![Spiget Version](https://img.shields.io/spiget/version/63453) ![](https://img.shields.io/spiget/tested-versions/63453)
 <br>[Download on SpigotMC](https://www.spigotmc.org/resources/admincontrolpanel-merry-christmas-free-coming-soon-confing.63453)
 
 

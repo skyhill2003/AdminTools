@@ -5,10 +5,13 @@
 <br>[Download on SpigotMC](https://www.spigotmc.org/resources/admincontrolpanel-merry-christmas-free-coming-soon-confing.63453)
 
 ## Commands:<br>
-``/adminpanel      # Open the GUI``<br>
-``/adminpanel help # See Help List``
+### Admin Commands:
+``/admintools           # Open the GUI``<br>
+``/admintools help      # See Help List``<br>
+``/admintools reload|rl # Reload the Plugin``
 
 ## Permissions:
-- adminpanel.use
+- adminpanel.*
 
-[LICENSE](https://github.com/skyhill2003/AdminTools/blob/master/LICENSE)
+# LICENSE
+[MIT](https://github.com/skyhill2003/AdminTools/blob/master/LICENSE)
